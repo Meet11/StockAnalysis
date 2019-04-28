@@ -21,6 +21,7 @@ jupyter-core==4.4.0
 MarkupSafe==1.1.1
 nbformat==4.4.0
 plotly==3.8.1
+pymongo==3.8.0
 pyrsistent==0.15.1
 pytz==2019.1
 requests==2.21.0
