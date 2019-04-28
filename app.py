@@ -15,7 +15,7 @@ import dash_html_components as html
 import datetime as dt
 import flask
 import os
-import pandas as pd
+
 import time
 
 app = dash.Dash(
